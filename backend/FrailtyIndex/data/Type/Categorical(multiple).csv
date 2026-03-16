@@ -1,0 +1,164 @@
+Field ID,Description,Category
+23358,ASAT error indicator,Abdominal composition
+29136,Actions and feelings during periods of overeating/binge eating,Eating patterns
+20554,Actions taken following self-harm,Self-harm behaviours
+20550,Activities undertaken to treat anxiety,Anxiety
+20547,Activities undertaken to treat depression,Depression
+29047,Activities undertaken to treat depression,Depression
+28753,Additional help needed because of health issues identified,Health and well-being
+41232,Administrative and legal statuses,Summary Administration
+29250,Aids used to assist with answering questionnaire,Entry method
+41219,Anaesthetics administered during delivery,Summary Maternity
+41220,Anaesthetics administered post delivery,Summary Maternity
+23359,Anterior thigh error indicator (left),Abdominal composition
+23361,Anterior thigh error indicator (right),Abdominal composition
+20199,Antibiotic codes for last 3 months,Medications
+6146,Attendance/disability/mobility allowance,Other sociodemographic factors
+20552,Behavioural and miscellaneous addictions,Addictions
+6152,"Blood clot, DVT, bronchitis, emphysema, asthma, rhinitis, eczema, allergy diagnosed by doctor",Medical conditions
+20001,"Cancer code, self-reported",Medical conditions
+28054,Care or support provided to people with COVID-19,Waves 1-6 exposure questionnaire
+41214,Carer support indicators,Summary Psychiatric
+6142,Current employment status,Employment
+29169,Current situation,Social situation
+41221,Delivery methods,Summary Maternity
+41222,Delivery onset methods,Summary Maternity
+41223,Delivery places,Summary Maternity
+41248,Destinations on discharge from hospital (recoded),Summary Administration
+41150,Detention categories (recoded),Summary Psychiatric
+41270,Diagnoses - ICD10,Summary Diagnoses
+41271,Diagnoses - ICD9,Summary Diagnoses
+41202,Diagnoses - main ICD10,Summary Diagnoses
+41203,Diagnoses - main ICD9,Summary Diagnoses
+41204,Diagnoses - secondary ICD10,Summary Diagnoses
+41205,Diagnoses - secondary ICD9,Summary Diagnoses
+30551,Experiences of abrupt dropping of head and/or shoulders in various situations,Sleep disturbances
+30549,Experiences of buckling of the knees in various situations,Sleep disturbances
+30554,"Experiences of falling to the ground, unable to move in various situations",Sleep disturbances
+30550,Experiences of sagging of the jaw in various situations,Sleep disturbances
+30553,Experiences of slurring of speech in various situations,Sleep disturbances
+30552,Experiences of weakness in your arms in various situations,Sleep disturbances
+41201,External causes - ICD10,Summary Diagnoses
+6148,Eye problems/disorders,Eyesight
+23364,FR liver PDFF mean error indicator,Abdominal composition
+6151,Fractured bone site(s),Medical conditions
+6139,Gas or solid-fuel cooking/heating,Household
+10860,Gas or solid-fuel cooking/heating (pilot),Household
+6140,Heating type(s) in home,Household
+41151,History of psychiatric care on admission (recoded),Summary Psychiatric
+41231,Hospital episode type,Summary Administration
+6141,How are people in household related to participant,Household
+6145,"Illness, injury, bereavement, stress in last 2 years",Mental health
+10721,"Illness, injury, bereavement, stress in last 2 years (pilot)",Mental health
+20112,Illnesses of adopted father,Family history
+20113,Illnesses of adopted mother,Family history
+20114,Illnesses of adopted siblings,Family history
+20107,Illnesses of father,Family history
+20110,Illnesses of mother,Family history
+20111,Illnesses of siblings,Family history
+20108,Ingredients in canned soup,Soup/snacks/pastries yesterday
+20109,Ingredients in homemade soup,Soup/snacks/pastries yesterday
+40022,Inpatient record origin,Summary Administration
+41224,Intended delivery places,Summary Maternity
+41244,Intended management of patient (recoded),Summary Administration
+6332,Item selected for each puzzle,Matrix pattern completion
+20762,Item selected for each puzzle,Matrix pattern completion
+41216,Legal statuses,Summary Psychiatric
+6160,Leisure/social activities,Social support
+20105,Liquid used to make porridge,Cereal yesterday
+120039,Location of pain during the past week,Experience of pain
+41245,Main speciality of consultant (recoded),Summary Administration
+6156,Manic/hyper symptoms,Mental health
+20548,Manifestations of mania or irritability,Mania
+29051,Manifestations of mania or irritability,Mood changes
+6177,"Medication for cholesterol, blood pressure or diabetes",Medication
+6153,"Medication for cholesterol, blood pressure, diabetes, or take exogenous hormones",Medication
+6154,"Medication for pain relief, constipation, heartburn",Medication
+10004,"Medication for pain relief, constipation, heartburn (pilot)",Medication
+10005,"Medication for smoking cessation, constipation, heartburn, allergies (pilot)",Medication
+41217,Mental categories,Summary Psychiatric
+29000,Mental health conditions ever diagnosed by a professional,Mental health
+29001,Mental health conditions experienced by first degree blood relatives,Mental health
+20544,Mental health problems ever diagnosed by a professional,Mental distress
+41249,Methods of admission to hospital (recoded),Summary Administration
+29130,Methods of controlling body shape or weight when at this low weight,Eating patterns
+29140,Methods of controlling body shape or weight when overeating/binge eating,Eating patterns
+41250,Methods of discharge from hospital (recoded),Summary Administration
+20553,Methods of self-harm used,Self-harm behaviours
+29115,Methods of self-harm used,Harm behaviours
+6179,Mineral and other dietary supplements,Medication
+6149,Mouth/teeth dental problems,Mouth
+10006,Mouth/teeth dental problems (pilot),Mouth
+6144,"Never eat eggs, dairy, wheat, sugar",Diet
+10855,"Never eat eggs, dairy, wheat, sugar (pilot)",Diet
+20002,"Non-cancer illness code, self-reported",Medical conditions
+20004,Operation code,Operations
+41273,Operative procedures - OPCS3,Summary Operations
+41272,Operative procedures - OPCS4,Summary Operations
+41256,Operative procedures - main OPCS3,Summary Operations
+41200,Operative procedures - main OPCS4,Summary Operations
+41258,Operative procedures - secondary OPCS3,Summary Operations
+41210,Operative procedures - secondary OPCS4,Summary Operations
+10854,Other dietary supplements (pilot),Medication
+41229,PCT responsible for patient data,Summary Administration
+41230,PCT where patients GP was registered,Summary Administration
+6159,Pain type(s) experienced in last month,Pain
+41247,Patient classification on admission (recoded),Summary Administration
+6315,Picture selected for each round,Picture vocabulary
+23360,Posterior thigh error indicator (left),Abdominal composition
+23362,Posterior thigh error indicator (right),Abdominal composition
+6138,Qualifications,Education
+28056,Qualifications,Waves 1-6 exposure questionnaire
+10722,Qualifications (pilot),Education
+6147,Reason for glasses/contact lenses,Eyesight
+20085,Reason for not eating or drinking normally,Typical diet yesterday
+30473,Reasons for change to hours of sleep,Quality of sleep
+41225,Resuscitation methods,Summary Maternity
+41226,Sex of baby,Summary Maternity
+20096,Size of red wine glass drunk,Alcoholic beverages yesterday
+20097,Size of rose wine glass drunk,Alcoholic beverages yesterday
+20095,Size of white wine glass drunk,Alcoholic beverages yesterday
+41001,Source of positive COVID test result,Coronavirus COVID-19
+41251,Sources of admission to hospital (recoded),Summary Administration
+29167,Sports and social activities attended in person at least once a week,Social situation
+29168,Sports and social activities attended virtually at least once a week,Social situation
+41227,Status of baby at birth,Summary Maternity
+41228,Statuses of person conducting delivery,Summary Maternity
+20551,Substance of prescription or over-the-counter medication addiction,Addictions
+20549,Substances taken for anxiety,Anxiety
+20546,Substances taken for depression,Depression
+29038,Substances taken for depression,Depression
+29065,Symptoms of panic attack,Anxiety and panic
+20099,Thickness of butter/margarine spread on baguettes,Bread/pasta/rice yesterday
+20101,Thickness of butter/margarine spread on bread rolls,Bread/pasta/rice yesterday
+20102,Thickness of butter/margarine spread on crackers/crispbreads,Bread/pasta/rice yesterday
+20100,Thickness of butter/margarine spread on large baps,Bread/pasta/rice yesterday
+20103,Thickness of butter/margarine spread on oatcakes,Bread/pasta/rice yesterday
+20104,Thickness of butter/margarine spread on other bread,Bread/pasta/rice yesterday
+20098,Thickness of butter/margarine spread on sliced bread,Bread/pasta/rice yesterday
+30576,Time of day fatigue was suffered over the last two weeks,Fatigue
+30583,Times of day that feelings in legs occur,Restless legs
+6143,Transport type for commuting to job workplace,Employment
+41246,Treatment speciality of consultant (recoded),Summary Administration
+20003,Treatment/medication code,Medications
+20092,Type of baguette eaten,Bread/pasta/rice yesterday
+20094,Type of bread roll eaten,Bread/pasta/rice yesterday
+20090,Type of fat/oil used in cooking,Spreads/sauces/cooking oils yesterday
+20093,Type of large bap eaten,Bread/pasta/rice yesterday
+20089,Type of meals eaten,Meal type yesterday
+20091,Type of sliced bread eaten,Bread/pasta/rice yesterday
+20086,Type of special diet followed,Typical diet yesterday
+20106,Type of yogurt eaten,Soup/snacks/pastries yesterday
+6164,Types of physical activity in last 4 weeks,Physical activity
+20087,Types of spread used on bread/crackers,Bread/pasta/rice yesterday
+20088,Types of spreads/sauces consumed,Spreads/sauces/cooking oils yesterday
+6162,Types of transport used (excluding work),Physical activity
+29039,Use of specific medications,Depression
+23357,VAT error indicator,Abdominal composition
+6150,Vascular/heart problems diagnosed by doctor,Medical conditions
+6155,Vitamin and mineral supplements,Medication
+10007,Vitamin and mineral supplements (pilot),Medication
+20084,Vitamin and/or mineral supplement use,Vitamin/mineral supplements yesterday
+10723,Vitamin supplements (pilot),Medication
+6158,Why reduced smoking,Smoking
+6157,Why stopped smoking,Smoking

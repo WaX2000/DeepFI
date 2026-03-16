@@ -1,0 +1,30 @@
+__base__:
+  - ./FrailtyIndex/cfgs/base_schedule.yaml
+  - ./FrailtyIndex/cfgs/models/ours_fttrans_final.yaml
+  - ./FrailtyIndex/cfgs/datasets/hcdr.yaml
+exp_name: TEST #ft-trans
+gpu_id: 7
+use_prod: True
+token_descent: False
+max_iter: 10000
+lr: 0.001
+stepvalues: [4000]
+Kfold: 5
+train_size: 1
+seed: 2 #2
+
+
+# prod_num_per_group: [4, 4, 4] #[8, 8, 8]
+# prod_num_per_group: [8, 8, 8]
+prod_num_per_group: 8
+# groups: [120, 120, 120]
+# groups: [136, 136, 136]
+groups: 136
+# num_per_group: [32, 16, 8]
+# sum_num_per_group: [32, 32, 32]
+sum_num_per_group: 32
+qk_relu: False
+exp_param: [train_size]
+batch_size: 512
+dim: 512
+depth: 3             
