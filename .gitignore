@@ -68,3 +68,4 @@ requirements.txt
 # 如果你有其他不希望上传的目录或文件，可以在这里添加
 # backend/config_local.py
 # data/backend/FrailtyIndex/path/
+backend/single_csv_uploads/
