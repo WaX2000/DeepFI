@@ -1,1 +1,1 @@
-from .AM_Former import FTTransformer as amformer
+from .Transformer import FTTransformer as former

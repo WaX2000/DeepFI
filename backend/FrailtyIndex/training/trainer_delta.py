@@ -33,34 +33,7 @@ class DefaultTrainer(object):
         if self.args.lr_adjust_my==0:
             self.args.lr_adjust="fix"
 
-        # self.model = getattr(models, args.model_name.lower())(args)
-        # self.model = models.amformer(dim = self.dim,
-        #                         depth = self.depth,
-        #                         heads = 8,
-        #                         attn_dropout = self.att_dropout,
-        #                         ff_dropout = self.ff_dropout,
-        #                         use_cls_token = False,# TRue
-                                
-        #                         # groups = [120, 120, 120],
-        #                         # sum_num_per_group = [32, 32, 32],
-        #                         # prod_num_per_group = [6, 6, 6],
-                                
-        #                         groups = [136,136,136,136],
-        #                         sum_num_per_group = [32, 32, 32,32],
-        #                         prod_num_per_group = [8,8,8,8],
-                                
-                                
-        #                         cluster = self.cluster,
-        #                         target_mode = 'mix',
-        #                         token_descent = False, #True,
-        #                         use_prod = True,
-        #                         num_special_tokens = 2,
-        #                         num_unique_categories = 10000,
-        #                         out = 1,
-        #                         num_cont = len_cont,
-        #                         num_cate = len_cate,
-        #                         use_sigmoid = True,)
-        self.model = models.amformer(
+        self.model = models.former(
             dim=self.dim,
             depth=self.depth,
             heads=8,  # 可考虑从 args 中读取
